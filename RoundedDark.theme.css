@@ -34,7 +34,7 @@
 
 /* Coloured Folder Icons by CapnKitten (Gibbu#1211 edit)*/
 /* If you wish to remove the Folder Icons; or if it breaks one of your plug-ins, remove everything under here: */
-.closedFolderIconWrapper-3tRb2d {
+/* .closedFolderIconWrapper-3tRb2d {
     display: none;
 }
 .folderIconWrapper-1oRIZr:not([style=""])::before {
@@ -52,4 +52,4 @@
     mask: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/solid/folder.svg) no-repeat;
     transform: scale(1.3335);
     filter: brightness(1.5) saturate(1.5);
-}
+} */
